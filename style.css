@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    font-family:cursive;
+    color: rgb(194, 180, 103);
+    padding: 20px;
+    background-color: black;
+
+}
+li,ul,h1{
+    display: inline;
+}
+ul{
+    color:rgb(146, 131, 131);
+    margin-left: 60%;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+
+.searchBar{
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.search{
+    padding: 80px;
+
+}
+input{
+    padding: 10px;
+    width: 70%;
+}
+.box{
+    display: inline-block;
+    border: 3px;
+    border-color: black;
+    border-style: groove;
+    margin-left: 30px;
+    cursor:pointer;
+}
+.product{
+    text-align: center;
+
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+
+h3{
+    margin-top: 30px;
+    font-size:200%;
+
+}
+.about{
+    text-align: center;    
+    padding: 20px;
+}
+.contact{
+    background-color: black;
+    padding: 20px;
+    color: rgb(206, 197, 182);
+    text-align: center;
+
+}
+
